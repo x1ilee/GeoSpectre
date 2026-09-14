@@ -1,4 +1,4 @@
-# Live Location Tracker
+# GeoSpectre
 
 A browser-based location-sharing demo built with Node.js, Express, and Socket.IO. It receives coordinates from a browser and displays the latest position on a map without refreshing the page.
 
